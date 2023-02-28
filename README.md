@@ -1,1 +1,1 @@
-# architectify-template-demo-1
+# architectify-demo-1
