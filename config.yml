@@ -2,6 +2,8 @@ module:
   mounts:
     - source: assets
       target: assets
+    - source: content
+      target: content
     - source: static
       target: static
 params:
