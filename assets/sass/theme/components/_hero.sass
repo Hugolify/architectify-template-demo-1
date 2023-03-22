@@ -1,7 +1,9 @@
-.hero
-    &-content
+.hero-content
+    .btn:first-of-type
+        @extend .btn-secondary
+        & + a
+            color: $header-color
+
+body:not(.term-offices):not(.page-persons)
+    .hero-content
         @extend .col-xl-8
-        .btn:first-of-type
-            @extend .btn-secondary
-            & + a
-                color: $header-color
