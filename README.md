@@ -1,10 +1,10 @@
 # architectify-demo-1
 
 ## Install
-Edit `config/_default/module.yaml` to install the `architectify-demo-1` module:
+Edit `config/_default/module.yaml` to install the `hugolify-theme-1` module:
 ```yml
 imports:
-  - path: github.com/hugolify/architectify-demo-1
+  - path: github.com/hugolify/hugolify-theme-1
 ```
 
 ## Documentation
