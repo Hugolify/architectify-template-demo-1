@@ -1,10 +1,10 @@
 {
-    "name": "architectify-demo-1",
-    "version": "1.0.3",
-    "homepage": "https://www.architectify.io",
-    "repository": "https://github.com/hugolify/architectify-demo-1",
+    "name": "hugolify-theme-1",
+    "version": "1.0.4",
+    "homepage": "https://www.hugolify.io",
+    "repository": "https://github.com/hugolify/hugolify-theme-1",
     "bugs": {
-        "url": "https://github.com/hugolify/architectify-demo-1/issues"
+        "url": "https://github.com/hugolify/hugolify-theme-1/issues"
     },
     "author": {
         "email": "sebousan@gmail.com",
@@ -13,6 +13,7 @@
     },
     "keywords": [
         "architectify",
+        "lawyerify",
         "hugolify",
         "hugo",
         "hugo-theme",
