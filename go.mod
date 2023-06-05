@@ -1,3 +1,3 @@
-module github.com/hugolify/architectify-demo-1
+module github.com/hugolify/hugolify-theme-1
 
 go 1.19
