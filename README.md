@@ -15,6 +15,9 @@ Add this import in `assets/sass/main.sass`
 /*! purgecss end ignore */
 ```
 
+## Live demo
+https://theme-1--hugolify-demo.netlify.app/
+
 ## Documentation
 https://github.com/hugolify/hugolify-template/wiki
 
